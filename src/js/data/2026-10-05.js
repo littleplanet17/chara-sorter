@@ -235,14 +235,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Psychology",
-    img: "sm07.png",
-    opts: {
-      verses: ["SM"],
-      notfemale: true 
-    }
-  },
-  {
     name: "The Arts",
     img: "sm09.png",
     opts: {
@@ -303,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sm16.png",
     opts: {
       verses: ["SM"],
-      notfemale: true 
+      notmale: true 
     }
   },
   {
@@ -311,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sm17.png",
     opts: {
       verses: ["SM"],
-      notfemale: true 
+      notmale: true 
     }
   },
   {
@@ -458,7 +450,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kwan  Wei",
+    name: "Kwan Wei",
     img: "etg18.png",
     opts: {
       verses: ["ETG"],
