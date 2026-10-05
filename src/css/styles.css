@@ -2,7 +2,7 @@ body {
   --main-color: #121212;
   --bg-color: #FBFAF5;
   --border-color: #121212;
-  --progress-bar-color: #6C9F9F;
+  --progress-bar-color: #104343;
   --loading-pulse-color: #252525;
   --link-color: #196969;
   --link-hover-color: #0D3535;
@@ -21,7 +21,7 @@ body.darkmode {
   --main-color: #FBFAF5;
   --bg-color: #121212;
   --border-color: #FBFAF5;
-  --progress-bar-color: #104343;
+  --progress-bar-color: #6C9F9F;
   --loading-pulse-color: #F3F3F3;
   --link-color: #196969;
   --link-hover-color: #8DB5B5;
