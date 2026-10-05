@@ -1,12 +1,12 @@
 body {
-  --main-color: black;
-  --bg-color: white;
-  --border-color: black;
-  --progress-bar-color: lightgreen;
-  --loading-pulse-color: #333;
-  --link-color: #990000;
-  --link-hover-color: #FF6600;
-  --link-visited-color: #6600FF;
+  --main-color: #121212;
+  --bg-color: #FBFAF5;
+  --border-color: #121212;
+  --progress-bar-color: #6C9F9F;
+  --loading-pulse-color: #252525;
+  --link-color: #196969;
+  --link-hover-color: #0D3535;
+  --link-visited-color: #691919;
 
   --image-bg-color: transparent;
 
@@ -18,14 +18,14 @@ body {
 }
 
 body.darkmode {
-  --main-color: #ddd;
-  --bg-color: #111;
-  --border-color: #ddd;
-  --progress-bar-color: forestgreen;
-  --loading-pulse-color: #ccc;
-  --link-color: #DD44CC;
-  --link-hover-color: #FF6600;
-  --link-visited-color: #66CCFF;
+  --main-color: #FBFAF5;
+  --bg-color: #121212;
+  --border-color: #FBFAF5;
+  --progress-bar-color: #104343;
+  --loading-pulse-color: #F3F3F3;
+  --link-color: #196969;
+  --link-hover-color: #8DB5B5;
+  --link-visited-color: #691919;
   color-scheme: dark;
 }
 
